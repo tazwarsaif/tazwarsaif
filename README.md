@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋, I'm Tazwar Saif.</h1>
-<h3 align="center">💻 Developer | Co-founder @Nexcentia | CSE Undergrad @BRACU 🚀 About Me I'm a passionate full-stack developer with a knack for solving complex problems and creating elegant, scalable solutions. As the co-founder of Nexcentia, I’ve been actively involved in designing and delivering impactful web applications that align with real-world needs. 🌟 What I Do Build intuitive and responsive web applications. Optimize websites for performance and scalability. Solve problems with efficient and creative solutions. Stay curious and constantly learn cutting-edge tech. 🛠️ Technical Stack Frontend: HTML, CSS, JavaScript, ReactJS, Tailwind, EJS Backend: NodeJS, ExpressJS, PHP Database: MySQL, MongoDB Other Tools: Git, Postman, VS Code 📚 Current Projects Job Portal: A dynamic PHP-based platform connecting job seekers with opportunities, powered by raw SQL and MySQL. Exploring new frontiers with AI integration into web applications. 🌱 Always Learning I thrive on mastering new frameworks, libraries, and technologies to stay ahead in the ever-evolving world of software development.</h3>
+<h3 align="center">🌟 "Turning ideas into impactful solutions through code."</h3>
 
 - 🔭 I’m currently working on [Audit Management System](https://github.com/tazwarsaif/AuditFlow)
 
