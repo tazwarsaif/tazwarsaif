@@ -5,7 +5,7 @@
 </p>
  <h3>🛠️ I’m currently working on</h3>
   <ul>
-    <li>An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
+    <li><a href="https://github.com/tazwarsaif/AuditFlow" target="_blank">Audit Management System</a> using
       Django for the backend, SQLite3 as the database, and Vue.js for the frontend.</li>
     <li>Improving my skills in backend development and API integration.</li>
   </ul>
