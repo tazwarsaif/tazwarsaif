@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Tazwar Saif.</h1>
 <h3 align="center">🌟 "Turning ideas into impactful solutions through code."</h3>
-<img src="coding.gif" alt="coding" width="90" height="90"/>
+<img src="coding.gif" alt="coding" width="150" height="120"/>
 - <h3>🛠️ I’m currently working on</h3>
   <ul>
     <li>An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
