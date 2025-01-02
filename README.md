@@ -1,4 +1,4 @@
-<h1 align="center">Hello, 👋, I'm Tazwar Saif.</h1>
+<h1 align="center">Hello 👋, I'm Tazwar Saif.</h1>
 <h3 align="center">🌟 "Turning ideas into impactful solutions through code."</h3>
 
 - <h3>🛠️ I’m currently working on</h3>
