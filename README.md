@@ -9,13 +9,16 @@
 - <h3> 🌱 I’m currently learning </h3>
   Exploring frontend development with advanced ReactJS and VueJS features.
 - <h3>💬 Ask me about</h3>
-  - Full-stack web development.
-  - Building responsive, scalable applications.
-  - Backend development using Django, NodeJS, and ExpressJS.
-  - API integration and building RESTful APIs.
-  - Database management with MySQL, SQLite3, and MongoDB.
-  - My experiences as a co-founder of Nexcentia and leading web development projects.
-  - Optimizing websites for performance and scalability.
+  <ul>
+    <li>Full-stack web development.</li>
+  </ul>
+    </br>
+  - Building responsive, scalable applications. </br>
+  - Backend development using Django, NodeJS, and ExpressJS. </br>
+  - API integration and building RESTful APIs. </br>
+  - Database management with MySQL, SQLite3, and MongoDB. </br>
+  - My experiences as a co-founder of Nexcentia and leading web development projects. </br>
+  - Optimizing websites for performance and scalability. </br>
 - <h3> 🤝 I’m looking to collaborate on </h3>
   Open-source web development projects. Innovative ideas that solve real-world problems.
   <h3 align="left">Connect with me:</h3>
