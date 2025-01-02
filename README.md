@@ -11,14 +11,13 @@
 - <h3>💬 Ask me about</h3>
   <ul>
     <li>Full-stack web development.</li>
+    <li>Building responsive, scalable applications.</li>
+    <li>Backend development using Django, NodeJS, and ExpressJS.</li>
+    <li>API integration and building RESTful APIs.</li>
+    <li>Database management with MySQL, SQLite3, and MongoDB.</li>
+    <li>My experiences as a co-founder of Nexcentia and leading web development projects.</li>
+    <li></li>
   </ul>
-    </br>
-  - Building responsive, scalable applications. </br>
-  - Backend development using Django, NodeJS, and ExpressJS. </br>
-  - API integration and building RESTful APIs. </br>
-  - Database management with MySQL, SQLite3, and MongoDB. </br>
-  - My experiences as a co-founder of Nexcentia and leading web development projects. </br>
-  - Optimizing websites for performance and scalability. </br>
 - <h3> 🤝 I’m looking to collaborate on </h3>
   Open-source web development projects. Innovative ideas that solve real-world problems.
   <h3 align="left">Connect with me:</h3>
