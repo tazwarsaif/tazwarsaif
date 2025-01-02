@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Audit Management System](https://github.com/tazwarsaif/AuditFlow)
 - 🛠️ I’m currently working on <br />
--An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
+- An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
 Django for the backend, SQLite3 as the database, and Vue.js for the frontend.
 Improving my skills in backend development and API integration.
 
