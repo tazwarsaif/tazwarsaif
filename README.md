@@ -7,8 +7,15 @@
       Django for the backend, SQLite3 as the database, and Vue.js for the frontend.</li>
     <li>Improving my skills in backend development and API integration.</li>
   </ul>
-- <h3> 🌱 I’m currently learning </h3>
-  Exploring frontend development with advanced ReactJS and VueJS features.
+- <h3>🌱 I’m currently learning</h3>
+<ul>
+  <li>Deep diving into PHP and MySQL with raw queries.</li>
+  <li>Exploring advanced ReactJS features and state management tools.</li>
+  <li>Deployment strategies for scalable web applications.</li>
+  <li>Setting up and managing Docker containers.</li>
+  <li>Deployment and hosting with AWS, Vercel, and Heroku.</li>
+</ul>
+
 - <h3>💬 Ask me about</h3>
   <ul>
     <li>Full-stack web development.</li>
