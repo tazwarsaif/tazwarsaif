@@ -2,6 +2,10 @@
 <h3 align="center">🌟 "Turning ideas into impactful solutions through code."</h3>
 
 - 🔭 I’m currently working on [Audit Management System](https://github.com/tazwarsaif/AuditFlow)
+- 🛠️ I’m currently working on <br />
+-An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
+Django for the backend, SQLite3 as the database, and Vue.js for the frontend.
+Improving my skills in backend development and API integration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
