@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tazwar Saif.</h1>
 <h3 align="center">🌟 "Turning ideas into impactful solutions through code."</h3>
 <p align="center">
-  <img src="coding.gif" alt="coding" width="200" height="170"/>
+  <img src="coding.gif" alt="coding" width="250" height="215"/>
 </p>
  <h3>🛠️ I’m currently working on</h3>
   <ul>
