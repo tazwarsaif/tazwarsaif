@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [Audit Management System](https://github.com/tazwarsaif/AuditFlow)
 - <h3>🛠️ I’m currently working on</h3>
-  An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
-  Django for the backend, SQLite3 as the database, and Vue.js for the frontend.
-  Improving my skills in backend development and API integration.
+  <ul>
+    <li>An [Audit Management System](https://github.com/tazwarsaif/AuditFlow) using
+      Django for the backend, SQLite3 as the database, and Vue.js for the frontend.</li>
+    <li>Improving my skills in backend development and API integration.</li>
+  </ul>
 - <h3> 🌱 I’m currently learning </h3>
   Exploring frontend development with advanced ReactJS and VueJS features.
 - <h3>💬 Ask me about</h3>
@@ -16,7 +18,6 @@
     <li>API integration and building RESTful APIs.</li>
     <li>Database management with MySQL, SQLite3, and MongoDB.</li>
     <li>My experiences as a co-founder of Nexcentia and leading web development projects.</li>
-    <li></li>
   </ul>
 - <h3> 🤝 I’m looking to collaborate on </h3>
   Open-source web development projects. Innovative ideas that solve real-world problems.
