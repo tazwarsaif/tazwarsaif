@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tazwar Saif Chowdhury</h1>
 <h3 align="center">💻 Aspiring Software Engineer | Co-founder @Nexcentia | CS Student @BRACU</h3>
 
