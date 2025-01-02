@@ -29,8 +29,8 @@
   Open-source web development projects. Innovative ideas that solve real-world problems.
   <h3 align="left">📫 How to reach me</h3>
     <ul>
-      <li>Email: <a href="mailto:tazwarsaif@gmail.com">tazwarsaif@gmail.com</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/tazwar-saif-a701b1247/">Tazwar Saif</a></li>
+      <li>Email: <a href="mailto:tazwarsaif@gmail.com" target="blank">tazwarsaif@gmail.com</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/tazwar-saif-a701b1247/" target="blank">Tazwar Saif</a></li>
       <li>
         <h3>Social Media:</h3> 
         <p align="left">
