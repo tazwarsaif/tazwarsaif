@@ -11,7 +11,7 @@
   </ul>
  <h3>🌱 I’m currently learning</h3>
   <ul>
-    <li>Deep diving into PHP and MySQL with raw queries.</li>
+    <li>Deep diving into Backend and Database with ORM.</li>
     <li>Exploring advanced ReactJS features and state management tools.</li>
     <li>Deployment strategies for scalable web applications.</li>
     <li>Setting up and managing Docker containers.</li>
