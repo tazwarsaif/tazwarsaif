@@ -33,6 +33,7 @@
     <ul>
       <li>Email: <a href="mailto:tazwarsaif@gmail.com" target="blank">tazwarsaif@gmail.com</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/tazwar-saif-a701b1247/" target="blank">Tazwar Saif</a></li>
+ <li>Portfolio: <a href="https://my-portfolio-ftoh.onrender.com/" target="blank">Tazwar Saif</a></li>
       <li>
         <h3>Social Media:</h3> 
         <p align="left">
