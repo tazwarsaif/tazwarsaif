@@ -5,8 +5,8 @@
 </p>
  <h3>🛠️ I’m currently working on</h3>
   <ul>
-    <li><a href="https://github.com/tazwarsaif/real-estate-app" target="_blank">Real Estate Landing Page</a> using
-     Laravel for the backend, SQLite as the database, and Blade for the frontend.</li>
+    <li><a href="https://github.com/tazwarsaif/SecTech-A-Project-Management-App" target="_blank">Real Estate Landing Page</a> using
+     Laravel for the backend, SQLite as the database, and React with Inertia for the frontend.</li>
     <li>Improving my skills in backend development and API integration.</li>
   </ul>
  <h3>🌱 I’m currently learning</h3>
