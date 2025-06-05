@@ -22,9 +22,9 @@
   <ul>
     <li>Full-stack web development.</li>
     <li>Building responsive, scalable applications.</li>
-    <li>Backend development using Django, NodeJS, and ExpressJS.</li>
+    <li>Backend development using PHP, Laravel, Django, NodeJS, and ExpressJS.</li>
     <li>API integration and building RESTful APIs.</li>
-    <li>Database management with MySQL, SQLite3, and MongoDB.</li>
+    <li>Database management with MySQL, SQLite, and MongoDB.</li>
     <li>My experiences as a co-founder of Nexcentia and leading web development projects.</li>
   </ul>
  <h3> 🤝 I’m looking to collaborate on </h3>
