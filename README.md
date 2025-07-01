@@ -5,7 +5,7 @@
 </p>
  <h3>🛠️ I’m currently working on</h3>
   <ul>
-    <li><a href="https://github.com/tazwarsaif/SecTech-A-Project-Management-App" target="_blank">SecTech-A Full Stack Project Management App</a> using
+    <li><a href="https://github.com/tazwarsaif/FeedMind---A-Product-Feedback-Management-App" target="_blank">FeedMind-A Full Stack FeedBack Management App</a> using
      Laravel for the backend, SQLite as the database, and React with Inertia for the frontend.</li>
     <li>Improving my skills in backend development and API integration.</li>
   </ul>
