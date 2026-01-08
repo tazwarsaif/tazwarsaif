@@ -59,9 +59,9 @@
 
 <h3>📫 How to Reach Me</h3>
 <ul>
-  <li>Email: <a href="mailto:tazwarsaif@gmail.com" target="_blank">tazwarsaif@gmail.com</a></li>
+  <li>Email: <a href="mailto:tazwar@nexcentia.com" target="_blank">tazwar@nexcentia.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/tazwar-saif-a701b1247/" target="_blank">Tazwar Saif</a></li>
-  <li>Portfolio: <a href="https://my-portfolio-ftoh.onrender.com/" target="_blank">my-portfolio-ftoh.onrender.com</a></li>
+  <li>Portfolio: <a href="https://nexcentia.com/" target="_blank">www.nexcentia.com</a></li>
 </ul>
 
 <h3>🌐 Social Media</h3>
