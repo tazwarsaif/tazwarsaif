@@ -1,47 +1,75 @@
-<h1 align="center">Hello 👋, I'm Tazwar Saif.</h1>
-<h3 align="center">🌟 "Turning ideas into impactful solutions through code."</h3>
+<h1 align="center">Hello 👋, I'm Tazwar Saif</h1>
+<h3 align="center">🌟 "Turning ideas into impactful solutions through code and leadership."</h3>
+
 <p align="center">
   <img src="coding.gif" alt="coding" width="260" height="215"/>
 </p>
- <h3>🛠️ I’m currently working on</h3>
-  <ul>
-    <li><a href="https://github.com/tazwarsaif/FeedMind---A-Product-Feedback-Management-App" target="_blank">FeedMind-A Full Stack FeedBack Management App</a> using
-     Laravel for the backend, SQLite as the database, and React with Inertia for the frontend.</li>
-    <li>Improving my skills in backend development and API integration.</li>
-  </ul>
- <h3>🌱 I’m currently learning</h3>
-  <ul>
-    <li>Deep diving into Backend and Database with ORM.</li>
-    <li>Exploring advanced ReactJS features and state management tools.</li>
-    <li>Deployment strategies for scalable web applications.</li>
-    <li>Setting up and managing Docker containers.</li>
-    <li>Deployment and hosting with AWS, Vercel, and Heroku.</li>
-  </ul>
 
- <h3>💬 Ask me about</h3>
-  <ul>
-    <li>Full-stack web development.</li>
-    <li>Building responsive, scalable applications.</li>
-    <li>Backend development using PHP, Laravel, Django, NodeJS, and ExpressJS.</li>
-    <li>API integration and building RESTful APIs.</li>
-    <li>Database management with MySQL, SQLite, and MongoDB.</li>
-    <li>My experiences as a co-founder of Nexcentia and leading web development projects.</li>
-  </ul>
- <h3> 🤝 I’m looking to collaborate on </h3>
-  Open-source web development projects. Innovative ideas that solve real-world problems.
-  <h3 align="left">📫 How to reach me</h3>
-    <ul>
-      <li>Email: <a href="mailto:tazwarsaif@gmail.com" target="blank">tazwarsaif@gmail.com</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/tazwar-saif-a701b1247/" target="blank">Tazwar Saif</a></li>
- <li>Portfolio: <a href="https://my-portfolio-ftoh.onrender.com/" target="blank">Tazwar Saif</a></li>
-      <li>
-        <h3>Social Media:</h3> 
-        <p align="left">
-          <a href="https://fb.com/tazwar.saif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tazwar.saif" height="30" width="40" /></a>
-            <a href="https://instagram.com/tazwar_saif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tazwar_saif" height="30" width="40" /></a>
-        </p>
-      </li>
-    </ul>
+---
+
+<h3>💼 About Me</h3>
+<ul>
+  <li>Co-founder and COO at <strong>Nexcentia</strong>, leading the team and driving operational excellence.</li>
+  <li>Full-stack web developer with hands-on experience in Laravel, React, NodeJS, Django, PHP, MySQL, MongoDB, and SQLite.</li>
+  <li>Passionate about building scalable applications, optimizing workflows, and deploying efficient systems.</li>
+</ul>
+
+---
+
+<h3>🛠️ Current Work</h3>
+<ul>
+  <li>Overseeing operations and project management at Nexcentia, ensuring delivery of high-quality web solutions.</li>
+  <li>Working on advanced backend development, API integrations, and microservices architectures.</li>
+  <li>Deepening knowledge in <strong>DevOps, CI/CD pipelines, Dockerization, and cloud deployments</strong>.</li>
+  <li><a href="https://github.com/tazwarsaif/FeedMind---A-Product-Feedback-Management-App" target="_blank">FeedMind</a> – A full-stack product feedback management app built with Laravel, SQLite, and React + Inertia (already completed).</li>
+</ul>
+
+---
+
+<h3>🌱 Currently Learning</h3>
+<ul>
+  <li>Advanced DevOps practices including CI/CD, Docker, and container orchestration.</li>
+  <li>Microservices architecture for scalable and maintainable systems.</li>
+  <li>Cloud deployment and monitoring strategies (AWS, Vercel, Heroku).</li>
+  <li>Optimizing backend performance and database management with ORM.</li>
+</ul>
+
+---
+
+<h3>💡 Ask Me About</h3>
+<ul>
+  <li>Full-stack web development and building responsive, scalable applications.</li>
+  <li>Backend development using Laravel, Django, NodeJS, ExpressJS, and PHP.</li>
+  <li>API design and integration, building RESTful services.</li>
+  <li>Database design and management: MySQL, SQLite, MongoDB.</li>
+  <li>Project management, leading teams, and operational strategies as a co-founder/COO.</li>
+  <li>Deployment strategies, Docker, microservices, and CI/CD pipelines.</li>
+</ul>
+
+---
+
+<h3>🤝 I’m Looking to Collaborate On</h3>
+<ul>
+  <li>Open-source web development projects.</li>
+  <li>Innovative ideas that solve real-world problems.</li>
+  <li>AI-powered applications and full-stack SaaS projects.</li>
+</ul>
+
+---
+
+<h3>📫 How to Reach Me</h3>
+<ul>
+  <li>Email: <a href="mailto:tazwarsaif@gmail.com" target="_blank">tazwarsaif@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/tazwar-saif-a701b1247/" target="_blank">Tazwar Saif</a></li>
+  <li>Portfolio: <a href="https://my-portfolio-ftoh.onrender.com/" target="_blank">my-portfolio-ftoh.onrender.com</a></li>
+</ul>
+
+<h3>🌐 Social Media</h3>
+<p align="left">
+  <a href="https://fb.com/tazwar.saif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/tazwar_saif" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
