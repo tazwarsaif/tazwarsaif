@@ -21,7 +21,6 @@
   <li>Overseeing operations and project management at Nexcentia, ensuring delivery of high-quality web solutions.</li>
   <li>Working on advanced backend development, API integrations, and microservices architectures.</li>
   <li>Deepening knowledge in <strong>DevOps, CI/CD pipelines, Dockerization, and cloud deployments</strong>.</li>
-  <li><a href="https://github.com/tazwarsaif/FeedMind---A-Product-Feedback-Management-App" target="_blank">FeedMind</a> – A full-stack product feedback management app built with Laravel, SQLite, and React + Inertia (already completed).</li>
 </ul>
 
 ---
